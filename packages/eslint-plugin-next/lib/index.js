@@ -18,6 +18,7 @@ module.exports = {
     'no-duplicate-head': require('./rules/no-duplicate-head'),
     'inline-script-id': require('./rules/inline-script-id'),
     'next-script-for-ga': require('./rules/next-script-for-ga'),
+    'no-getstaticprops-in-app': require('./rules/no-getstaticprops-in-app'),
   },
   configs: {
     recommended: {

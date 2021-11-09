@@ -320,6 +320,10 @@
           "path": "/errors/no-duplicate-head.md"
         },
         {
+          "title": "no-getstaticprops-in-app",
+          "path": "/errors/no-getstaticprops-in-app.md"
+        },
+        {
           "title": "no-head-import-in-document",
           "path": "/errors/no-head-import-in-document.md"
         },
